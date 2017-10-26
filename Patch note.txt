@@ -1,0 +1,6 @@
+			       26/10/2017 V0.7.2
+-------------------------------------Ajout--------------------------------------
+	- Id, Attaque de base, Défense de base, Endurence de base, région, kms copain, Bonbons pour évoluer, cahnce de capture, chance de fuite, liste d'évolution dans partie "Informations"
+------------------------------------Bug fix-------------------------------------
+	- Correction d'un bug qui faisait apparaitre du texte non désiré dans la partie "Calculateur d'IV", quand on sélectionné un Pokémon dans la partie "Informations"
+	- Correction de bug d'affichage dans la partie "Informations" losque qu'on changé de Pokémon dans la liste à l'aide du clavier.
