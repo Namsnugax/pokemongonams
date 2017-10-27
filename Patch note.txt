@@ -1,6 +1,12 @@
+   			      27/10/2017 V0.7.3
+-------------------------------------Ajout--------------------------------------
+	- Début de mise en place de maj des fichiers de base de l'application (pas encore OP)
+------------------------------------Bug fix-------------------------------------
+	- Correction d'un bug qui faisait que losqu'un cliquait droit sur un Pokémon dans Pokédex pour afficher ses inforamtion, elles étaient pas affiché correctement.
 			       26/10/2017 V0.7.2
 -------------------------------------Ajout--------------------------------------
-	- Id, Attaque de base, Défense de base, Endurence de base, région, kms copain, Bonbons pour évoluer, cahnce de capture, chance de fuite, liste d'évolution dans partie "Informations"
+	- Id, Attaque de base, Défense de base, Endurance de base, région, kms copain, Bonbons pour évoluer, cahnce de capture, chance de fuite, liste d'évolution dans partie "Informations"
+	- Suppression de combinaison d'IV impossible (meilleur précision et meilleure rapidité de calcul)
 ------------------------------------Bug fix-------------------------------------
 	- Correction d'un bug qui faisait apparaitre du texte non désiré dans la partie "Calculateur d'IV", quand on sélectionné un Pokémon dans la partie "Informations"
 	- Correction de bug d'affichage dans la partie "Informations" losque qu'on changé de Pokémon dans la liste à l'aide du clavier.
