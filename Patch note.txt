@@ -1,10 +1,22 @@
-	      		       02/11/2017 V0.7.5
+      		    	       04/11/2017 V0.7.7
+-------------------------------------Ajout--------------------------------------
+	- Clean de code (invisible pour l'utilisateur)
+	- Harmonisation des couleurs
+------------------------------------Bug fix-------------------------------------
+	- Correction d'un bug qui faisait apparaitre des artefacts visuels sur certaine fenètre transparante
+	      		       03/11/2017 V0.7.6
+-------------------------------------Ajout--------------------------------------
+	- Ajout de toutes les attaques et début de l'ajout des attaques pour chaque pokémons
+
+			       02/11/2017 V0.7.5
 -------------------------------------Ajout--------------------------------------
 	- Ajout de la prise en compte du nouveau niveau max des pokémons (40 quand Niantic aura vraiment corrigé le truc)
 	- Ajout de fonctions de tri dans la partie Pokédex
+
   			       31/10/2017 V0.7.4
 -------------------------------------Ajout--------------------------------------
 	- Mise a jour de l'appli depuis un updateur (et des fichiers)
+
    			      27/10/2017 V0.7.3
 -------------------------------------Ajout--------------------------------------
 	- Début de mise en place de maj des fichiers de base de l'application (pas encore OP)
