@@ -1,4 +1,14 @@
-      		    	       04/11/2017 V0.7.7
+			      05/11/2017 V0.7.8
+-------------------------------------Ajout--------------------------------------
+	- Mise à jour des pokémon de raid (nouveaux venus et disparition)
+	- Tenefix et Skelenox dans oeuf (et d'autres)
+	- Tri "présent dans un oeuf" (Pokédex)
+	- Distance d'oeuf dans "informations"
+	- Ajout des attaques de chaque Pokémons (jusqu'a B pour les attaques)
+------------------------------------Bug fix-------------------------------------
+	- Correction d'un bug qui donnait de mauvaises informations sur un pokémon possédé ou non si on cliqué trop vite dessus (mais fallait être fort)
+
+			      04/11/2017 V0.7.7
 -------------------------------------Ajout--------------------------------------
 	- Clean de code (invisible pour l'utilisateur)
 	- Harmonisation des couleurs
