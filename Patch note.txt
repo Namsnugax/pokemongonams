@@ -1,3 +1,12 @@
+			      08/11/2017 V0.7.9
+-------------------------------------Ajout--------------------------------------
+	- Informations : Liste d'évolution représentée par les images des Pokémons (clicable)
+	- Ajout des attaques des pokémons jusqu'à G
+	- Ajout de la liste des attaques qui ne sont plus disponible pour un Pokémon (vide pour le moment)
+------------------------------------Bug fix-------------------------------------
+	- Correction de fautes d'ortographes
+	- Suppression d'une attaque présente en double
+
 			      05/11/2017 V0.7.8
 -------------------------------------Ajout--------------------------------------
 	- Mise à jour des pokémon de raid (nouveaux venus et disparition)
