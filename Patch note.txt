@@ -1,3 +1,12 @@
+    			      09/11/2017 V0.7.10
+-------------------------------------Ajout--------------------------------------
+	- Tri par type de Pokémon
+	- Ajout des images des types dans les listes déroulantes (type du pmokémon et type d'attaque)
+	- Refonte du l'interface de tri dans Pokédex pour le rendre plus clair
+------------------------------------Bug fix-------------------------------------
+	- Correction de Pokémon n'ayant pas le bon type
+	- Résolution d'un problème de mauvaise sauvegarde des données des attaques legacy depuis l'updateur
+
 			      08/11/2017 V0.7.9
 -------------------------------------Ajout--------------------------------------
 	- Informations : Liste d'évolution représentée par les images des Pokémons (clicable)
