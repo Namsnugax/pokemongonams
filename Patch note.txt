@@ -1,3 +1,12 @@
+     			      13/11/2017 V0.7.11
+-------------------------------------Ajout--------------------------------------
+	- Ajout des pré-évolution
+	- Classement par évolution !
+	- Ajout des items évolutions
+	- Ajout des Attaque jusqu'à L
+------------------------------------Bug fix-------------------------------------
+	- Correction d'un bug de taille des barres de progression dans Statistiques (médailles)
+
     			      09/11/2017 V0.7.10
 -------------------------------------Ajout--------------------------------------
 	- Tri par type de Pokémon
