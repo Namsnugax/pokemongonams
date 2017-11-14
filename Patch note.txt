@@ -1,4 +1,18 @@
-     			      13/11/2017 V0.7.11
+     			      14/11/2017 V0.7.12
+-------------------------------------Ajout--------------------------------------
+	- Refonte de la partie information
+	- Amélioration des performances de recherche dans Information et Calculateur IV
+	- Optimisation des liste avec images
+	- Ajout du niveau du pokémon dans les tableaux de chance de capture
+	- Ajout d'un bouton pour voir le combo d'attaque dans l'onglet Attaques
+	- Arrière plan de meilleur qualité
+	- Ajout des Attaque jusqu'à O
+
+------------------------------------Bug fix-------------------------------------
+	- Correction d'un bug qui laissé des informations dans l'onglet informations alors que la recherche ne donnait pas de resultat
+	- Correction d'un bug ou certains Pokémon n'apparaissait pas en mode "afficher par évolution"
+
+			       13/11/2017 V0.7.11
 -------------------------------------Ajout--------------------------------------
 	- Ajout des pré-évolution
 	- Classement par évolution !
