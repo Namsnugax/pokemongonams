@@ -1,3 +1,33 @@
+			      18/11/2017 V0.7.13
+-------------------------------------Ajout--------------------------------------
+	- Ajout d'un splash screen (ecran d'attente au chargement de l'appli)
+	- Léger reajustement d'interface
+	- Refonte de la partie Attaques
+	- Suppression du boutton voir les attaque dans inforamtion(suite a la refonte de la partie attaque)
+	- Ajout de la liste des attaques legacy (plus disponible pour le pokémon)
+	- Ajout d'un menu de prise de capture d'onglet (en jpg)
+	- Ajustement des couleurs en font (pokedex)
+	- Couleur du texte de liste d'IV changé (seul le % est coloré)
+	- Ajout de toute les attaques
+	- Vérification d'erreur attaque (ok !)
+	- La partie taux de capture dans inforamtion à une taille qui s'adapte au nombre de tableau (0 - 1 - 3 - 4)
+	- Level par palier de 0.5 dans information
+	- Images des pokémons représentant plus leurs taille respective (merci chrales)
+	- Images de meilleures qualité (type, bonbon...)
+	- Genre des Pokémon + images !
+	- Image Pokémon Shiny !
+	- Pokémon asséxué !
+
+------------------------------------Bug fix-------------------------------------
+	- Les évolutions d'évoli sont affiché dans le bon ordre
+	- Correction de nom de l'attaque Eclat magique
+	- Correction de fautes d'orthographes
+	- Correction d'un problème de calcul dans Calculateur d'iv
+	- Liste des IV classé par % de perfection
+	- Correction d'un bug ou la liste des attaques plus disponible était mal actualisé
+	- Correction du nom de l'attaque vent violent
+	- Attaque correctement classées (accents :))
+
      			      14/11/2017 V0.7.12
 -------------------------------------Ajout--------------------------------------
 	- Refonte de la partie information
